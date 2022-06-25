@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jung-jane
+- 👋 Hi, I’m @jane
 - 👀 I’m interested in frontend and ux/ui
 - 🌱 I’m currently learning software and frontend develop
 - 💞️
